@@ -1,5 +1,3 @@
-# hello-world
+# pickles
 
-just another repository
-
-growing and growing 
+If I can pick and post about pickles, you can too!
