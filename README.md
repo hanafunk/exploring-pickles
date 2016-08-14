@@ -1,3 +1,3 @@
 # hello-world
-just another repository\n
+just another repository/n
 growing and growing 
